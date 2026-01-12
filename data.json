@@ -1,0 +1,22 @@
+{
+  "weapons": [
+    {
+      "name": "AK-47",
+      "type": "AR",
+      "code": "DF-AK47-XA92-PLQ3",
+      "desc": "反動を抑えた万能型"
+    },
+    {
+      "name": "M4A1",
+      "type": "AR",
+      "code": "DF-M4A1-ZX21-KL99",
+      "desc": "中距離最強"
+    },
+    {
+      "name": "MP7",
+      "type": "SMG",
+      "code": "DF-MP7-FF29-XC88",
+      "desc": "近距離溶かす"
+    }
+  ]
+}
