@@ -1,22 +1,22 @@
 {
   "weapons": [
     {
-      "name": "AK-47",
+      "name": "CI-19",
       "type": "AR",
-      "code": "DF-AK47-XA92-PLQ3",
-      "desc": "反動を抑えた万能型"
+      "code": "CI-19アサルトライフル-ウォーフェア-6IP1UGS079K13KA1UPVSK",
+      "desc": "たっくんがいつも使ってるやつ！"
     },
     {
-      "name": "M4A1",
+      "name": "AKS-74U",
       "type": "AR",
-      "code": "DF-M4A1-ZX21-KL99",
+      "code": "AKS-74Uアサルトライフル-ウォーフェア-6IP1UQ0079K13KA1UPVSK",
       "desc": "中距離最強"
     },
     {
-      "name": "MP7",
-      "type": "SMG",
-      "code": "DF-MP7-FF29-XC88",
-      "desc": "近距離溶かす"
+      "name": "M16A4",
+      "type": "AR",
+      "code": "M16A4アサルトライフル-ウォーフェア-6IP1USC079K13KA1UPVSK",
+      "desc": "バーストで敵を溶かす"
     }
   ]
 }
